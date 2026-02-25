@@ -9,9 +9,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-Year B.Tech Student  
-- 💻 Passionate about Full Stack Development & Machine Learning  
-- 🔭 Currently Building: Smart Accident Detection System  
+- 🎓 Third-Year B.Tech Student  
+- 💻 Passionate about Full Stack Development & Machine Learning    
 - 🌱 Learning: System Design, DevOps & Advanced Backend  
 - 🤝 Open to Open-Source Collaboration  
 - 📫 Reach me at: your.email@example.com  
@@ -31,20 +30,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 🌟 Featured Projects
 
-### 🔹 Smart Accident Detection System
-> IoT + OBD-II + UDT Protocol based real-time accident detection and emergency alert system.  
-> Reduced alert latency and improved reliability of crash detection.
+
 
 ### 🔹 YouTube Clone (MERN Stack)
 > Full-stack video streaming platform with authentication, video upload, comments, subscriptions & search.
