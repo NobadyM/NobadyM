@@ -13,7 +13,7 @@
 - 💻 Passionate about Full Stack Development & Machine Learning    
 - 🌱 Learning: System Design, DevOps & Advanced Backend  
 - 🤝 Open to Open-Source Collaboration  
-- 📫 Reach me at: your.email@example.com  
+- 📫 Reach me at: wasekarmandar@gmail.com  
 
 ---
 
